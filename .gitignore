@@ -1,5 +1,5 @@
 # AI/Model Files
-flan-t5-ai-simple-bot/
+/flan-t5-ai-simple-bot
 
 /.phpunit.cache
 /node_modules
